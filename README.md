@@ -1,5 +1,5 @@
 # Zadanie 2 React
-Nazwa ponieważ użyłem szablonu dla podłączenia z Internet Identity pod React ( opisałem biblioteki do podłączenia w kodzie frontendowym ) 
+Nazwa * ( Who-am-I ) ponieważ użyłem szablonu dla podłączenia z Internet Identity pod React ( opisałem biblioteki do podłączenia w kodzie frontendowym ) 
 
 
 
