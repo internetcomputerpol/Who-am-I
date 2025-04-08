@@ -1,0 +1,168 @@
+
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.login-container {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.login-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #555;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.form-group.checkbox {
+  display: flex;
+  align-items: center;
+}
+
+.form-group.checkbox input {
+  width: auto;
+  margin-right: 10px;
+}
+
+.form-group.checkbox label {
+  margin-bottom: 0;
+}
+
+.error-message {
+  color: #d9534f;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #f9f2f2;
+  border-radius: 4px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.primary-btn {
+  background-color: #5cb85c;
+  color: white;
+}
+
+.primary-btn:hover {
+  background-color: #4cae4c;
+}
+
+.admin-panel {
+  background-color: #f8f9fa;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.admin-panel h1 {
+  color: #333;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.admin-content {
+  margin-bottom: 30px;
+}
+
+.principal {
+  background-color: #e9ecef;
+  padding: 10px;
+  border-radius: 4px;
+  word-break: break-all;
+  font-family: monospace;
+}
+
+.logout-btn {
+  background-color: #d9534f;
+  color: white;
+}
+
+.logout-btn:hover {
+  background-color: #c9302c;
+}
+
+
+.blocked-page {
+  text-align: center;
+  padding: 40px 20px;
+  max-width: 600px;
+  margin: 40px auto;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f8d7da;
+}
+
+.blocked-page h1 {
+  color: #721c24;
+  margin-bottom: 20px;
+}
+
+.blocked-content {
+  margin-bottom: 20px;
+  color: #721c24;
+}
+
+.blocked-page button {
+  max-width: 200px;
+  margin: 0 auto;
+  background-color: #0275d8;
+  color: white;
+}
+
+.blocked-page button:hover {
+  background-color: #025aa5;
+}
+
+.home-page {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.home-page h1 {
+  margin-bottom: 20px;
+}
+
+.home-page button {
+  max-width: 200px;
+  margin: 0 auto;
+  background-color: #0275d8;
+  color: white;
+}
+
+.home-page button:hover {
+  background-color: #025aa5;
+}
