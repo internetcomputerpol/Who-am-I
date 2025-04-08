@@ -10,4 +10,4 @@ https://icp.ninja/s/z4MWn
 
 Daploy na blockchain ICP produkcyjnie na 20 minut wykonujmey za pomocą 
 
-
+![Deploy](Deploy.png)
